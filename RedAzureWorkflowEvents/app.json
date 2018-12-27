@@ -1,0 +1,26 @@
+{
+  "id": "246f1cc6-e133-4930-bca2-a72a966e1bda",
+  "name": "RedAzureWorkflowEvents",
+  "publisher": "Red and Bundle",
+  "brief": "Workflow azure events",
+  "description": "Events to call the Azure workflow responses",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://redandbundle.com",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 80000,
+    "to": 89999
+  },
+  "showMyCode": true,
+  "target": "Extension",
+  "features": ["TranslationFile"],
+  "runtime": "2.1"
+}

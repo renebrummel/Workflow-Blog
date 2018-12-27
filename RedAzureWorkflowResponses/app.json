@@ -1,0 +1,26 @@
+{
+  "id": "d3b2369f-4293-4c32-af2b-a27408a5958c",
+  "name": "RedAzureWorkflowResponses",
+  "publisher": "Red and Bundle",
+  "brief": "Workflow azure functions",
+  "description": "Workflow responses that call Azure functions",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://redandbundle.com",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 80000,
+    "to": 89999
+  },
+  "showMyCode": true,
+  "target": "Extension",
+  "features": ["TranslationFile"],
+  "runtime": "2.1"
+}

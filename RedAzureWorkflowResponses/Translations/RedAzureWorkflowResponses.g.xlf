@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="RedAzureWorkflowResponses">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3302419913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azure Function</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table REDAfAzureFunction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3302419913 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table REDAfAzureFunction - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3302419913 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table REDAfAzureFunction - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3302419913 - Field 4165234317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table REDAfAzureFunction - Field Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3302419913 - Field 3246938056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameter String</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table REDAfAzureFunction - Field Parameter String - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3302419913 - Field 3348941625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table REDAfAzureFunction - Field Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3302419913 - Field 839089114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Secret</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table REDAfAzureFunction - Field Secret - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3302419913 - NamedType 636644234" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Url %1 is not available. Do you want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table REDAfAzureFunction - NamedType UrlNotAvailableMsg</note>
+        </trans-unit>
+        <trans-unit id="Table 3302419913 - NamedType 28698063" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot delete this record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table REDAfAzureFunction - NamedType CannotDeleteErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3302419913 - NamedType 2262041693" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot insert new records in this table.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table REDAfAzureFunction - NamedType CannotInsertErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3945575048 - NamedType 4175707712" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check the email address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RedAfWorkflowRespHandling - NamedType CheckEmailAddressTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3661942714 - NamedType 264942082" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Endpoint %1 is not available. Cannot check email address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RedAfAzureFunctionCalls - NamedType EndpointNotAvaiableErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3661942714 - NamedType 3007870474" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 is not a valid email address. Resp Code %2, Message %3, Content %4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RedAfAzureFunctionCalls - NamedType InvalidEmailAddressErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3661942714 - NamedType 1828323951" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The result was unexpected. Resp Code %1, Message %2, Content %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RedAfAzureFunctionCalls - NamedType UnexpectedResultMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 29136352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azure Functions Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RedAfAzureFunctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 29136352 - Action 2339933335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RedAfAzureFunctions - Action CheckUrl - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
